@@ -12,15 +12,11 @@ I am advised by [Dr. Qiang Liu](https://liuqiang12040913.github.io/). Together, 
 
 From June 2023 to April 2025, I worked as a Research Assistant at [The Future Laboratory, Tsinghua University](https://thfl.tsinghua.edu.cn/en/), where I participated in interdisciplinary projects combining wireless communication, sensing, and intelligent interactive systems.
 
-
-
 ## Education
 
 - **Ph.D. in Computer Science (in progress)**, [University of Nebraska–Lincoln](https://www.unl.edu/), *June 2025 – Present*
 - **M.S. in Communication Engineering**, Jilin University, *Sept. 2020 – June 2023*
 - **B.S. in Internet of Things Engineering**, Heilongjiang University, *Aug. 2015 – June 2019*
-
-
 
 ## Work Experience
 
