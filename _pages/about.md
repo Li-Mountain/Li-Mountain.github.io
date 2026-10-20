@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I am a Ph.D. student in Computer Science at the [University of Nebraska–Lincoln](https://www.unl.edu/), starting from the 2025 Summer term.  
+I am a Ph.D. student in Computer Science at the [University of Nebraska–Lincoln](https://www.unl.edu/), starting in the 2025 Summer term.  
 My research interests lie in **time-sensitive (event-driven) networking**, **digital radio twins**, and **machine learning for wireless and edge systems**. I am particularly interested in building data-driven, physically grounded models that bridge theory and real-world deployments.
 
 I am fortunate to be advised by [Dr. Qiang Liu](https://liuqiang12040913.github.io/). Together, we work on leveraging digital twins, optimization, and learning-based methods to improve the reliability, efficiency, and intelligence of next-generation communication networks.
