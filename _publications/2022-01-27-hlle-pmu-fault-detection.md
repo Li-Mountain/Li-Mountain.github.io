@@ -2,7 +2,7 @@
 title: "Hessian Locally Linear Embedding of PMU Data for Efficient Fault Detection in Power Systems"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-01-01-hlle-pmu-fault-detection
+permalink: /publication/2022-01-27-hlle-pmu-fault-detection
 excerpt: 'A low-complexity fault detection method that embeds high-dimensional PMU data via Hessian locally linear embedding and applies a T-squared statistic for online detection.'
 date: 2022-01-27
 venue: 'IEEE Transactions on Instrumentation and Measurement'
