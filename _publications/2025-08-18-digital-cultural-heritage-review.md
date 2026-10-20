@@ -2,7 +2,7 @@
 title: "Emerging Computing Technology for Digital Culture Heritage Preservation and Inheritance: A Literature Review"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-08-01-digital-cultural-heritage-review
+permalink: /publication/2025-08-18-digital-cultural-heritage-review
 excerpt: 'A literature review of 146 case studies (2020–2024) on how emerging computing technologies reshape the digital cultural heritage process, from acquisition to presentation.'
 date: 2025-08-18
 venue: 'IEEE Transactions on Computational Social Systems'
